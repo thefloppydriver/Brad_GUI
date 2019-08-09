@@ -1,0 +1,6 @@
+README.md
+setup.py
+Brad_GUI_thefloppydriver.egg-info/PKG-INFO
+Brad_GUI_thefloppydriver.egg-info/SOURCES.txt
+Brad_GUI_thefloppydriver.egg-info/dependency_links.txt
+Brad_GUI_thefloppydriver.egg-info/top_level.txt
